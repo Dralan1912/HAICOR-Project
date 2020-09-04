@@ -1,2 +1,3 @@
-# HAICOR-Project
-University of Rochester, ROCHCI Research Group, HAICOR Project.
+# HAICOR Project
+
+University of Rochester, ROC HCI Research Group, HAICOR Project.
