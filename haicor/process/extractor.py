@@ -58,7 +58,6 @@ class TrieConceptExtractor:
         Returns:
             dict: The trie structure representing the given dictionary.
         """
-
         def build_trie(entries: Iterable[Tuple[str, ...]]) -> Tuple[bool, dict]:
             match, entries = [] in entries, (i for i in entries if i)
 
